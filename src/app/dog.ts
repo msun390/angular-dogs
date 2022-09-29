@@ -1,6 +1,7 @@
 export interface Dog {
   id: number;
   name: string;
+  personality: string;
 }
 
 
